@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luis-cedillo
-- 👀 I’m interested in learning Full Stack Web Development. I would love to be able to implement a Netflix application clone. That's the goal!
-- 🌱 I’m currently learning Javascript. I'm polishing my HTML and CSS skills. However, more specifically, I'm focusing on Algorithms and Data Structures.
+- 👀 I’m interested in learning Full Stack Web Development while I complete my BS in CS. My goal is to obtain my Master's in CS from Georgia Tech!
+- 🌱 I’m currently learning Javascript and Python. I'm polishing my HTML and CSS skills. However, more specifically, I'm focusing on Databases and Data Structures.
 - 💞️ I’m looking to collaborate on projects and applications to enhance my technical and leadership skills.
 - 📫 You can reach me @ luis.m.cedillo@gmail.com or @realLuisCedillo on Twitter
 
